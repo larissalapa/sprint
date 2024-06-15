@@ -1,6 +1,6 @@
 # Projeto de Monitoramento de Temperatura e Umidade
 
-Sistema de Monitoramento Ambiental para a Fórmula E
+Sistema de Monitoramento Ambiental para a Fórmula E: 
 Este projeto implementa um sistema de monitoramento de temperatura e umidade usando um sensor TMP36, um potenciômetro, LEDs, um buzzer, e dois servos motores. O sistema exibe as leituras de temperatura e umidade em um display LCD e usa LEDs e um buzzer para sinalizar diferentes condições.
 
 ## Componentes
